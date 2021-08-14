@@ -1,0 +1,36 @@
+/* Fonts:
+font-family: 'Lexend Deca', sans-serif;
+font-family: 'Big Shoulders Display', cursive;
+ */
+
+/* Global */
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+h1 {
+    font-family: 'Big Shoulders Display', cursive;;
+}
+/* Container */
+.description-container {
+    display: flex;    
+}
+/* Wrappers */
+
+/* Logo */
+
+/* Button */
+.learn-more-button {
+    background-color: hsl(0, 0%, 95%);
+}
+
+/* Attribution */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    padding-top: 5%;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
