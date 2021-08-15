@@ -15,7 +15,7 @@
 5: work on width and height - !!!!! Needs work
 
 ## Button Design
-1: Center/bottom
+1: Center/bottom - done
 2: Rounded button
 3: Set how big it is
 4: Set specific colors
