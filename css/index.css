@@ -46,11 +46,30 @@ p {
   background-color: hsl(179, 100%, 13%);
   padding: 5% 5%;
 }
-/* Logo */
-
 /* Button */
 .learn-more-button {
   background-color: hsl(0, 0%, 95%);
+}
+.sedan-button {
+    color: hsl(31, 77%, 52%);
+}
+.sedan-button:hover {
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+}
+.suv-button {
+    color: hsl(184, 100%, 22%);
+}
+.suv-button:hover {
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+}
+.luxury-button {
+    color: hsl(179, 100%, 13%);
+}
+.luxury-button:hover {
+    background-color: hsl(179, 100%, 13%);
+    color: hsl(0, 0%, 95%);
 }
 
 /* Attribution */
