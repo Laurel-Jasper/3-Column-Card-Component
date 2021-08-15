@@ -9,13 +9,13 @@
 
 ## Box Design
 1: class/class names - Done (maybe)
-2: Set display to flex
-3: Add background-color
-4: add font styles
-5: work on width and height
+2: Set display to flex - done
+3: Add background color - done
+4: add font styles - done
+5: work on width and height - !!!!! Needs work
 
 ## Button Design
-1: Center
+1: Center/bottom
 2: Rounded button
 3: Set how big it is
 4: Set specific colors

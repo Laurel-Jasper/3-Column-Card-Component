@@ -5,32 +5,57 @@ font-family: 'Big Shoulders Display', cursive;
 
 /* Global */
 body {
-    font-family: 'Lexend Deca', sans-serif;
-    font-size: 15px;
+  color: hsl(0, 0%, 95%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
 }
 h1 {
-    font-family: 'Big Shoulders Display', cursive;;
+  font-family: "Big Shoulders Display", cursive;
 }
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
 /* Container */
 .description-container {
-    display: flex;    
+  align-items: center;
+  border-radius: 15px;
+  display: flex;
+  overflow: hidden;
+  margin: 10px 50px 10px 5px;
+  width: 100%;
+  /* height: 900px; */
+}
+.description-container p {
+    line-height: 3em;
 }
 /* Wrappers */
-
+.sedan-wrapper {
+  background-color: hsl(31, 77%, 52%);
+  padding: 5% 5%;
+}
+.suv-wrapper {
+  background-color: hsl(184, 100%, 22%);
+  padding: 5% 5%;
+}
+.luxury-wrapper {
+  background-color: hsl(179, 100%, 13%);
+  padding: 5% 5%;
+}
 /* Logo */
 
 /* Button */
 .learn-more-button {
-    background-color: hsl(0, 0%, 95%);
+  background-color: hsl(0, 0%, 95%);
 }
 
 /* Attribution */
 .attribution {
-    font-size: 11px;
-    text-align: center;
-    padding-top: 5%;
-  }
-  .attribution a {
-    color: hsl(228, 45%, 44%);
-  }
-
+  color: black;
+  font-size: 11px;
+  text-align: center;
+  padding-top: 5%;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
