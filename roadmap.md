@@ -16,12 +16,12 @@
 
 ## Button Design
 1: Center/bottom - done
-2: Rounded button
-3: Set how big it is
-4: Set specific colors
-5: Set active
+2: Rounded button -done
+3: Set how big it is - done
+4: Set specific colors - done
+5: Set active - done
 
 ## Logo Design 
-1: make sure the logo is the top left of the the 
+1: make sure the logo is the top left of the the - done
 
 ## Flexbox
